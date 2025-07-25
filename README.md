@@ -1,1 +1,3 @@
-# ubiquiti_home_assignment
+# README
+
+Ubiquiti home assignment for Embedded Networking Engineer position
